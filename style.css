@@ -10,7 +10,7 @@ body {
   left: 60px;
   margin-top: 10px;
   margin-right: 60px;
-  padding: 10px;
+  padding: 20px;
 
   border-radius: 10px 20px 20px 20px;
 
@@ -140,7 +140,7 @@ body {
   font-family: arial;
   color: white;
   border-radius: 10px 15px 15px 15px;
-  padding: 8px;
+  padding: 10px;
   margin: 5px;
   transition: 0.1s;
   cursor: pointer;
